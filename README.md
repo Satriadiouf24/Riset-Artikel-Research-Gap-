@@ -1,4 +1,7 @@
 # Riset-Artikel-Research-Gap-
+[Pemanfaatan Machine Learning menggunakan algoritma Neural Network untuk Tuning PID dalam Kontrol Suhu iTCLab.pdf](https://github.com/user-attachments/files/17399551/Pemanfaatan.Machine.Learning.menggunakan.algoritma.Neural.Network.untuk.Tuning.PID.dalam.Kontrol.Suhu.iTCLab.pdf)
+
+
 Pemanfaatan Machine Learning menggunakan algoritma Neural Network
 untuk Tuning PID dalam Kontrol Suhu iTCLab
 BAB 1
