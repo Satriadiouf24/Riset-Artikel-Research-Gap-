@@ -2,8 +2,7 @@
 [Pemanfaatan Machine Learning menggunakan algoritma Neural Network untuk Tuning PID dalam Kontrol Suhu iTCLab.pdf](https://github.com/user-attachments/files/17399551/Pemanfaatan.Machine.Learning.menggunakan.algoritma.Neural.Network.untuk.Tuning.PID.dalam.Kontrol.Suhu.iTCLab.pdf)
 
 
-Pemanfaatan Machine Learning menggunakan algoritma Neural Network
-untuk Tuning PID dalam Kontrol Suhu iTCLab
+## Pemanfaatan Machine Learning menggunakan algoritma Neural Networkuntuk Tuning PID dalam Kontrol Suhu iTCLab
 BAB 1
 Pendahuluan
 Dalam beberapa dekade terakhir, kontrol otomatis telah menjadi aspek penting dalam berbagai industri, mulai dari manufaktur hingga pengelolaan energi. Pengendalian suhu, khususnya, memainkan peranan krusial dalam banyak aplikasi industri, seperti proses kimia, penyimpanan makanan, dan sistem HVAC (Heating, Ventilation, and Air Conditioning). Di antara berbagai teknik kontrol yang ada, PID (Proportional-Integral-Derivative) merupakan metode yang paling banyak digunakan. PID berfungsi untuk menjaga variabel yang diinginkan, seperti suhu, dalam rentang yang ditentukan dengan cara menyesuaikan input berdasarkan kesalahan antara nilai yang diinginkan dan nilai aktual.
